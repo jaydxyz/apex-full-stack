@@ -1,5 +1,5 @@
-# modern-full-stack
-Modern Full Stack: An Educational Guide Series
+# Modern Full Stack
+An Educational Guide Series
 
 ## Front-End Development
 
