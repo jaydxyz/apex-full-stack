@@ -55,7 +55,7 @@ An Educational Guide Series
 
 ## API Development and Integration
 
-41. RESTful API Design: Best Practices and Standards
+41. [RESTful API Design: Best Practices and Standards](041-restful-api-design-best-practices-and-standards.md)
 42. GraphQL: A New Approach to API Development
 43. gRPC: High-Performance RPC Framework
 44. OAuth 2.0 and OpenID Connect: Secure Authentication for Web APIs
