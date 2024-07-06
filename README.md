@@ -94,7 +94,7 @@ An Educational Guide Series
 
 ## Performance Optimization
 
-71. Web Performance Optimization: Techniques and Best Practices
+71. [Web Performance Optimization: Techniques and Best Practices](071-web-performance-optimization-techniques-and-best-practices.md)
 72. Lazy Loading: Improving Initial Page Load Time
 73. Code Splitting in Modern JavaScript Applications
 74. Image Optimization for the Web: Formats, Compression, and Delivery
