@@ -42,7 +42,7 @@ An Educational Guide Series
 
 ## Databases and Data Management
 
-31. SQL Fundamentals: Relational Database Design
+31. [SQL Fundamentals: Relational Database Design](031-sql-fundamentals-relational-database-design.md)
 32. NoSQL Databases: MongoDB, Cassandra, and Redis Compared
 33. PostgreSQL: Advanced Features for Modern Applications
 34. MySQL vs. MariaDB: Choosing the Right Relational Database
