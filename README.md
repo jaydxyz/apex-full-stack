@@ -3,7 +3,7 @@ An Educational Guide Series
 
 ## Front-End Development
 
-1. Introduction to HTML5: Building the Structure of Modern Web Pages
+1. [Introduction to HTML5: Building the Structure of Modern Web Pages](001-introduction-to-html5-building-the-structure-of-modern-web-pages.md)
 2. CSS3 Fundamentals: Styling Your Web Applications
 3. JavaScript ES6+: Core Concepts for Front-End Development
 4. Responsive Web Design: Principles and Best Practices
