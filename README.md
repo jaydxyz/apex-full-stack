@@ -81,7 +81,7 @@ An Educational Guide Series
 
 ## Web Security
 
-61. OWASP Top 10: Understanding Common Web Vulnerabilities
+61. [OWASP Top 10: Understanding Common Web Vulnerabilities](061-owasp-top-10-understanding-common-web-vulnerabilities.md)
 62. Cross-Site Scripting (XSS) Prevention Techniques
 63. SQL Injection: Risks and Mitigation Strategies
 64. HTTPS and TLS: Securing Data in Transit
