@@ -68,7 +68,7 @@ An Educational Guide Series
 
 ## DevOps and Deployment
 
-51. Introduction to DevOps: Bridging Development and Operations
+51. [Introduction to DevOps: Bridging Development and Operations](051-introduction-to-devops-bridging-development-and-operations.md)
 52. Docker: Containerization for Modern Web Applications
 53. Kubernetes: Orchestrating Containerized Applications
 54. CI/CD Pipelines: Automating Your Development Workflow
