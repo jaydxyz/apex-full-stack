@@ -120,7 +120,7 @@ An Educational Guide Series
 
 ## Emerging Technologies and Trends
 
-91. WebXR: Building Virtual and Augmented Reality Experiences
+91. [WebXR: Building Virtual and Augmented Reality Experiences](091-webxr-building-virtual-and-augmented-reality-experiences.md)
 92. Machine Learning in the Browser: TensorFlow.js
 93. Blockchain and Web3: Decentralized Web Applications
 94. IoT and Web Development: Connecting Smart Devices
