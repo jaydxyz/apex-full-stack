@@ -1,5 +1,5 @@
-# Modern Full Stack
-An Educational Guide Series
+# Apex Full Stack
+Working on a knowledge base and making it public in case it is beneficial to anyone else.
 
 ## Front-End Development
 
