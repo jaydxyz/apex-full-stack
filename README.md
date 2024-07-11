@@ -4,7 +4,7 @@ Working on a knowledge base and making it public in case it is beneficial to any
 ## Front-End Development
 
 1. [Introduction to HTML5: Building the Structure of Modern Web Pages](001-introduction-to-html5-building-the-structure-of-modern-web-pages.md)
-2. CSS3 Fundamentals: Styling Your Web Applications
+2. [CSS3 Fundamentals: Styling Your Web Applications](002-css3-fundamentals-styling-your-web-applications.md)
 3. JavaScript ES6+: Core Concepts for Front-End Development
 4. Responsive Web Design: Principles and Best Practices
 5. Understanding the Document Object Model (DOM)
