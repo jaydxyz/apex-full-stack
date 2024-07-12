@@ -43,7 +43,7 @@ Working on a knowledge base and making it public in case it is beneficial to any
 ## Databases and Data Management
 
 31. [SQL Fundamentals: Relational Database Design](031-sql-fundamentals-relational-database-design.md)
-32. NoSQL Databases: MongoDB, Cassandra, and Redis Compared
+32. [NoSQL Databases: MongoDB, Cassandra, and Redis Compared](032-nosql-databases-mongodb-cassandra-and-redis-compared.md)
 33. PostgreSQL: Advanced Features for Modern Applications
 34. MySQL vs. MariaDB: Choosing the Right Relational Database
 35. Graph Databases: Neo4j and Use Cases
