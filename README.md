@@ -82,7 +82,7 @@ Working on a knowledge base and making it public in case it is beneficial to any
 ## Web Security
 
 61. [OWASP Top 10: Understanding Common Web Vulnerabilities](061-owasp-top-10-understanding-common-web-vulnerabilities.md)
-62. Cross-Site Scripting (XSS) Prevention Techniques
+62. [Cross-Site Scripting (XSS) Prevention Techniques](062-cross-site-scripting-xss-prevention-techniques.md)
 63. SQL Injection: Risks and Mitigation Strategies
 64. HTTPS and TLS: Securing Data in Transit
 65. Cross-Site Request Forgery (CSRF) Protection
