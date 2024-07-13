@@ -95,7 +95,7 @@ Working on a knowledge base and making it public in case it is beneficial to any
 ## Performance Optimization
 
 71. [Web Performance Optimization: Techniques and Best Practices](071-web-performance-optimization-techniques-and-best-practices.md)
-72. Lazy Loading: Improving Initial Page Load Time
+72. [Lazy Loading: Improving Initial Page Load Time](072-lazy-loading-improving-initial-page-load-time.md)
 73. Code Splitting in Modern JavaScript Applications
 74. Image Optimization for the Web: Formats, Compression, and Delivery
 75. Caching Strategies: Browser, CDN, and Application-Level
