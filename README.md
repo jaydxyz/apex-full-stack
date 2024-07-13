@@ -18,7 +18,7 @@ Working on a knowledge base and making it public in case it is beneficial to any
 
 11. [React.js: Building User Interfaces with Components](011-reactjs-building-user-interfaces-with-components.md)
 12. [Vue.js: The Progressive JavaScript Framework](012-vuejs-the-progressive-javascript-framework.md)
-13. Angular: A Platform for Building Mobile and Desktop Web Applications
+13. [Angular: A Platform for Building Mobile and Desktop Web Applications](013-angular-a-platform-for-building-mobile-and-desktop-web-applications.md)
 14. Svelte: The Compile-time Framework
 15. State Management in React: Context API vs. Redux
 16. Vue 3 Composition API: A New Way to Organize Component Logic
