@@ -69,7 +69,7 @@ Working on a knowledge base and making it public in case it is beneficial to any
 ## DevOps and Deployment
 
 51. [Introduction to DevOps: Bridging Development and Operations](051-introduction-to-devops-bridging-development-and-operations.md)
-52. Docker: Containerization for Modern Web Applications
+52. [Docker: Containerization for Modern Web Applications](052-docker-containerization-for-modern-web-applications.md)
 53. Kubernetes: Orchestrating Containerized Applications
 54. CI/CD Pipelines: Automating Your Development Workflow
 55. Infrastructure as Code: Terraform and CloudFormation
