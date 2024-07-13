@@ -108,7 +108,7 @@ Working on a knowledge base and making it public in case it is beneficial to any
 ## Testing and Quality Assurance
 
 81. [Unit Testing JavaScript: Jest and Mocha Frameworks](081-unit-testing-javascript-jest-and-mocha-frameworks.md)
-82. End-to-End Testing with Cypress and Selenium
+82. [End-to-End Testing with Cypress and Selenium](082-end-to-end-testing-with-cypress-and-selenium.md)
 83. Test-Driven Development (TDD) in Web Applications
 84. Behavior-Driven Development (BDD) with Cucumber
 85. API Testing: Postman and Insomnia
